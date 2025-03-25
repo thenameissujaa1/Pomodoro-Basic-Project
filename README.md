@@ -1,5 +1,9 @@
 Pomodoro Timer ⏳
+
+
 A simple Pomodoro Timer built using HTML, CSS, and JavaScript to help improve focus and productivity.
+
+
 
 🚀 Features
 ✅ Work Timer: Set to 2 minutes instead of the default 25 minutes
@@ -8,9 +12,11 @@ A simple Pomodoro Timer built using HTML, CSS, and JavaScript to help improve fo
 ✅ Start, Pause, and Reset Buttons for better control
 ✅ Pure JavaScript (No Libraries Required!)
 
+
+
 📷 Demo Video
 🎥 Watch the full tutorial here:
-👉 Click to Watch on YouTube
+👉 [Click to Watch on YouTube](https://youtu.be/p47e3U7NhYI?si=cqrZV_kbHmtm6SIl)
 
 📂 Project Structure
 graphql
